@@ -14,32 +14,32 @@ category = "cs.PF"
 title = "Performance"
 
 [[sources]]
-limit = 150
+limit = 50
 category = "cs.AI"
 title = "Artificial Intelligence"
 
 [[sources]]
-limit = 150
+limit = 50
 category = "cs.OS"
 title = "Operating Systems"
 
 [[sources]]
-limit = 150
+limit = 50
 category = "cs.DB"
 title = "Databases"
 
 [[sources]]
-limit = 150
+limit = 50
 category = "cs.LG"
 title = "Machine Learning"
 
 [[sources]]
-limit = 150
+limit = 10
 category = "cs.GT"
 title = "Computer Science and Game Theory"
 
 [[sources]]
-limit = 150
+limit = 10
 category = "cs.IT"
 title = "Information Theory"
 
